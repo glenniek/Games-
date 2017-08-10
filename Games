@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,UK | Arsenal v Leicester SD
+http://185.59.221.175:25461/live/15pUsZKUIw/4boblpukUd/519.ts
+#EXTINF:-1,UK | Arsenal v Leicester  HD
+http://185.59.221.175:25461/live/15pUsZKUIw/4boblpukUd/19338.ts
+#EXTINF:-1,UK | Arsenal v Leicester  FHD
+http://185.59.221.175:25461/live/15pUsZKUIw/4boblpukUd/3319.ts
+#EXTINF:-1,USA: Arsenal v Leicester  HD
+http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/8292.ts
+#EXTINF:-1,USA: Arsenal V Leicester HD
+http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/9523.ts
+#EXTINF:-1,NL: Arsenal Vs Leicester FHD
+http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/15976.ts
+#EXTINF:-1,NL: Ziggo Sport Select HD
+http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/13000.ts
